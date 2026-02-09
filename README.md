@@ -29,7 +29,7 @@ This project serves as a comprehensive simulation platform for autonomous mariti
 >
 > [!IMPORTANT]
 > The high-resolution demonstration video exceeds GitHub's 100MB limit.
-> **[Watch the Autonomous Ship Digital Twin Demo here](YOUR_LINK_HERE)** *(Recommended: YouTube or Google Drive)*
+> **[Watch the Autonomous Ship Digital Twin Demo here](https://www.youtube.com/watch?v=sTP-h4TIaT0)** *(Recommended: YouTube or Google Drive)*
 
 ## 🛠️ Technical Stack
 
