@@ -21,8 +21,21 @@ This project serves as a comprehensive simulation platform for autonomous mariti
 
 - `Unity Implementation/`: Core Unity project files, including C# scripts and environmental assets.
 - `Digital Twin - Portfolio Report.pdf`: Detailed technical report covering methodology and project results.
-- `Autonomous-Ship-Digital-Twin.mp4.mp4`: Full demonstration video of the simulation in action.
 - `Question-X/`: Supplemental research and technical problem-solving components.
+
+## 📸 Visuals & Media
+
+### 📺 Simulation Demo
+>
+> [!IMPORTANT]
+> The high-resolution demonstration video exceeds GitHub's 100MB limit.
+> **[Watch the Autonomous Ship Digital Twin Demo here](YOUR_LINK_HERE)** *(Recommended: YouTube or Google Drive)*
+
+### 🖼️ Screenshot Gallery
+
+| Unity Scene Overview | Autonomous Pathfinding | Maritime Effects |
+| :---: | :---: | :---: |
+| ![Scene](https://via.placeholder.com/300x200?text=Scene+Overview) | ![Pathfinding](https://via.placeholder.com/300x200?text=Autonomous+Pathfinding) | ![Physics](https://via.placeholder.com/300x200?text=Maritime+Physics) |
 
 ## 🛠️ Technical Stack
 
