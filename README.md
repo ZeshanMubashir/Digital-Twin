@@ -31,12 +31,6 @@ This project serves as a comprehensive simulation platform for autonomous mariti
 > The high-resolution demonstration video exceeds GitHub's 100MB limit.
 > **[Watch the Autonomous Ship Digital Twin Demo here](YOUR_LINK_HERE)** *(Recommended: YouTube or Google Drive)*
 
-### 🖼️ Screenshot Gallery
-
-| Ship Model Preview | Engine/Propeller Detail | Maritime Environment |
-| :---: | :---: | :---: |
-| ![Ship Model](Unity%20Implementation/DigitalTwin/Assets/FloatingEntities/Scripts/photo-1476897017502-219c9169bd6f.jpg) | ![Propeller](Unity%20Implementation/DigitalTwin/Assets/FloatingEntities/Models/NCGC_VAKTA/Materials/props/props_diffuse.jpg) | ![Ocean](Unity%20Implementation/DigitalTwin/Assets/FloatingEntities/Shaders/foam2bc.jpg) |
-
 ## 🛠️ Technical Stack
 
 - **Engine**: Unity (3D)
