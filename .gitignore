@@ -57,7 +57,7 @@ Icon?
 # --- Large Files ---
 *.mp4
 *.zip
-*.unitypackage
+# *.unitypackage (Allowed if < 100MB)
 
 # --- IDEs ---
 .vscode/

@@ -33,9 +33,9 @@ This project serves as a comprehensive simulation platform for autonomous mariti
 
 ### 🖼️ Screenshot Gallery
 
-| Unity Scene Overview | Autonomous Pathfinding | Maritime Effects |
+| Ship Model Preview | Engine/Propeller Detail | Maritime Environment |
 | :---: | :---: | :---: |
-| ![Scene](https://via.placeholder.com/300x200?text=Scene+Overview) | ![Pathfinding](https://via.placeholder.com/300x200?text=Autonomous+Pathfinding) | ![Physics](https://via.placeholder.com/300x200?text=Maritime+Physics) |
+| ![Ship Model](Unity%20Implementation/DigitalTwin/Assets/FloatingEntities/Scripts/photo-1476897017502-219c9169bd6f.jpg) | ![Propeller](Unity%20Implementation/DigitalTwin/Assets/FloatingEntities/Models/NCGC_VAKTA/Materials/props/props_diffuse.jpg) | ![Ocean](Unity%20Implementation/DigitalTwin/Assets/FloatingEntities/Shaders/foam2bc.jpg) |
 
 ## 🛠️ Technical Stack
 
