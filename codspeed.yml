@@ -1,0 +1,19 @@
+$schema: https://raw.githubusercontent.com/CodSpeedHQ/codspeed/refs/heads/main/schemas/codspeed.schema.json
+
+# The MATLAB simulation scripts are run headlessly with GNU Octave.
+# See benchmarks/octave/run_benchmark.m for details.
+benchmarks:
+  - name: "Q3b - Euler vs Runge-Kutta, 2nd order linear ODE"
+    exec: octave-cli --no-gui --norc --no-window-system --eval "addpath(fullfile(pwd, 'benchmarks', 'octave')); run_benchmark('Question-3b/PF_3b.m')"
+
+  - name: "Q3d - Euler vs Runge-Kutta, unstable 2nd order ODE"
+    exec: octave-cli --no-gui --norc --no-window-system --eval "addpath(fullfile(pwd, 'benchmarks', 'octave')); run_benchmark('Question-3d/PF_3d.m')"
+
+  - name: "Q4 - Euler vs Runge-Kutta, coupled nonlinear ODE system"
+    exec: octave-cli --no-gui --norc --no-window-system --eval "addpath(fullfile(pwd, 'benchmarks', 'octave')); run_benchmark('Question-4/PF_4.m')"
+
+  - name: "Q5a - Ship dynamics simulation with CSV waypoint export"
+    exec: octave-cli --no-gui --norc --no-window-system --eval "addpath(fullfile(pwd, 'benchmarks', 'octave')); run_benchmark('Question-5a/PF_5a.m')"
+
+  - name: "Q5c - Adaptive Extended Kalman Filter ship state estimation"
+    exec: octave-cli --no-gui --norc --no-window-system --eval "addpath(fullfile(pwd, 'benchmarks', 'octave')); run_benchmark('Question-5c/PF_5c.m')"
