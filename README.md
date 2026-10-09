@@ -3,6 +3,7 @@
 [![Unity](https://img.shields.io/badge/Unity-2021.3+-000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://app.codspeed.io/ZeshanMubashir/Digital-Twin?utm_source=badge)
 
 A high-fidelity Digital Twin simulation of an autonomous ship, integrating real-world coordinate data with advanced maritime environmental physics in Unity.
 
